@@ -1,0 +1,254 @@
+{
+  "cars": [
+    {
+      "id": "porsche-1",
+      "manufacturer": "Porsche",
+      "model": "Panamera",
+      "color": "black",
+      "releaseYear": 2020,
+      "price": "120000$",
+      "horsepower": 330,
+      "imageType": "jpg",
+      "oldPrice": "140000$"
+    },
+    {
+      "id": "porsche-2",
+      "manufacturer": "Porsche",
+      "model": "911",
+      "color": "blue",
+      "releaseYear": 2020,
+      "price": "140000$",
+      "horsepower": 410,
+      "imageType": "jpg",
+      "oldPrice": "170000$"
+    },
+    {
+      "id": "mercedes-1",
+      "manufacturer": "mercedes",
+      "model": "S-Class",
+      "color": "white",
+      "releaseYear": 2019,
+      "price": "94250$",
+      "horsepower": 362,
+      "imageType": "jpg",
+      "oldPrice": "120000$"
+    },
+    {
+      "id": "toyota-1",
+      "manufacturer": "Toyota",
+      "model": "Prius",
+      "color": "blue",
+      "releaseYear": 2009,
+      "price": "5000$",
+      "horsepower": 118,
+      "imageType": "jpg",
+      "oldPrice": "20000$"
+    },
+    {
+      "id": "ford-1",
+      "manufacturer": "Ford",
+      "model": "Fusion",
+      "color": "gray",
+      "releaseYear": 2015,
+      "price": "32780$",
+      "horsepower": 175,
+      "imageType": "png",
+      "oldPrice": ""
+    },
+    {
+      "id": "honda-1",
+      "manufacturer": "Honda",
+      "model": "Fit",
+      "color": "silver",
+      "releaseYear": 2006,
+      "price": "3500$",
+      "horsepower": 110,
+      "imageType": "png",
+      "oldPrice": "15000$"
+    },
+    {
+      "id": "audiQ3",
+      "manufacturer": "Audi",
+      "model": "Q3",
+      "color": "Grey",
+      "releaseYear": 2013,
+      "price": "15000$",
+      "horsepower": 264,
+      "imageType": "png",
+      "oldPrice": "21000$"
+    },
+    {
+      "id": "jeep",
+      "manufacturer": "Jeep",
+      "model": "Loader",
+      "color": "Grey",
+      "releaseYear": 2010,
+      "price": "10000$",
+      "horsepower": 264,
+      "imageType": "png",
+      "oldPrice": "12000$"
+    },
+    {
+      "id": "MercedesGLE",
+      "manufacturer": "Mercedes",
+      "model": "Loader",
+      "color": "White",
+      "releaseYear": 2010,
+      "price": "17000$",
+      "horsepower": 320,
+      "imageType": "png",
+      "oldPrice": "20000$"
+    },
+    {
+      "id": "audiS6",
+      "manufacturer": "Audi",
+      "model": "S6",
+      "color": "Darkgrey",
+      "releaseYear": 2011,
+      "price": "20000$",
+      "horsepower": 340,
+      "imageType": "jpg",
+      "oldPrice": "21000$"
+    },
+    {
+      "id": "kiaJeep",
+      "manufacturer": "KIA",
+      "model": "Jeep",
+      "color": "White",
+      "releaseYear": 2011,
+      "price": "7000$",
+      "horsepower": 210,
+      "imageType": "jpg",
+      "oldPrice": "9000$"
+    },
+    {
+      "id": "suzuki",
+      "manufacturer": "Suzuki",
+      "model": "SX4",
+      "color": "Red",
+      "releaseYear": 2009,
+      "price": "6000$",
+      "horsepower": 250,
+      "imageType": "jpg",
+      "oldPrice": "7500$"
+    },
+    {
+      "id": "toyotaRAV4",
+      "manufacturer": "Toyota",
+      "model": "RAV4",
+      "color": "Black",
+      "releaseYear": 2016,
+      "price": "27000$",
+      "horsepower": 370,
+      "imageType": "png",
+      "oldPrice": "30000$"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "balance": 0,
+      "password": "uydsZ39YL$WP"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "balance": 0,
+      "password": "ui/6NdAa7b"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "balance": 0,
+      "password": "W8g(MifboYf6rKdg"
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "email": "user4@gmail.com",
+      "balance": 0,
+      "password": "@6o7kw"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "email": "user5@gmail.com",
+      "balance": 0,
+      "password": "2K22H9"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "email": "user6@gmail.com",
+      "balance": 0,
+      "password": "jAf6]D3zXbnZ)g"
+    },
+    {
+      "username": "gocha",
+      "email": "gocha@gmail.com",
+      "balance": 0,
+      "password": "1234567",
+      "id": 8
+    },
+    {
+      "username": "qada",
+      "email": "qada@gmail.com",
+      "balance": 0,
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "username": "jemali",
+      "email": "jemali@gmail.com",
+      "balance": 0,
+      "password": "jemali",
+      "id": 10
+    },
+    {
+      "username": "sdsdsaa",
+      "email": "sdasasad@gmail.com",
+      "balance": 0,
+      "password": "ssadsads",
+      "id": 13
+    },
+    {
+      "username": "axios",
+      "email": "axios@gmail.com",
+      "balance": 0,
+      "password": "1234567",
+      "id": 14
+    },
+    {
+      "username": "saxeli",
+      "email": "emaili@gmail.com",
+      "balance": 0,
+      "password": "paroli",
+      "id": 15
+    },
+    {
+      "username": "name",
+      "email": "email@gmail.com",
+      "balance": 0,
+      "password": "1234567",
+      "id": 16
+    },
+    {
+      "username": "newname",
+      "email": "newname@gmail.com",
+      "balance": 0,
+      "password": "newname",
+      "id": 17
+    },
+    {
+      "username": "ბექა",
+      "email": "meili@gmail.com",
+      "password": "paroli",
+      "balance": 146185,
+      "id": 18
+    }
+  ]
+}
