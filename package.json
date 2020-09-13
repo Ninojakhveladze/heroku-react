@@ -1,8 +1,8 @@
 {
-  "name": "cars-app",
+  "name": "heroku-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://beqa-bumbeishvili.github.io/cars-app",
+  "homepage": "https://ninojakhveladze.github.io/heroku-react",
   "compilerOptions": {
     "isolatedModules": true
   },
