@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/heroku-react/static/css/main.60575270.chunk.css",
-    "main.js": "/heroku-react/static/js/main.41a6752e.chunk.js",
-    "main.js.map": "/heroku-react/static/js/main.41a6752e.chunk.js.map",
+    "main.js": "/heroku-react/static/js/main.33d7904d.chunk.js",
+    "main.js.map": "/heroku-react/static/js/main.33d7904d.chunk.js.map",
     "runtime-main.js": "/heroku-react/static/js/runtime-main.26c8f3fb.js",
     "runtime-main.js.map": "/heroku-react/static/js/runtime-main.26c8f3fb.js.map",
     "static/js/2.508a6755.chunk.js": "/heroku-react/static/js/2.508a6755.chunk.js",
     "static/js/2.508a6755.chunk.js.map": "/heroku-react/static/js/2.508a6755.chunk.js.map",
     "index.html": "/heroku-react/index.html",
-    "precache-manifest.4ec316849ea5d219740a6e443c305c09.js": "/heroku-react/precache-manifest.4ec316849ea5d219740a6e443c305c09.js",
+    "precache-manifest.e077bbd4bd4d4e1bc9090e79036e6ab8.js": "/heroku-react/precache-manifest.e077bbd4bd4d4e1bc9090e79036e6ab8.js",
     "service-worker.js": "/heroku-react/service-worker.js",
     "static/css/main.60575270.chunk.css.map": "/heroku-react/static/css/main.60575270.chunk.css.map",
     "static/js/2.508a6755.chunk.js.LICENSE.txt": "/heroku-react/static/js/2.508a6755.chunk.js.LICENSE.txt",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.26c8f3fb.js",
     "static/js/2.508a6755.chunk.js",
     "static/css/main.60575270.chunk.css",
-    "static/js/main.41a6752e.chunk.js"
+    "static/js/main.33d7904d.chunk.js"
   ]
 }

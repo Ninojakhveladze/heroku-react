@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ecf086ff2b77d2415a2066b455a1035",
+    "revision": "165f19512c1f83cd5425ef953f7846e5",
     "url": "/heroku-react/index.html"
   },
   {
-    "revision": "e39ccd30617088b86c5d",
+    "revision": "318a232a37a1dcbd495a",
     "url": "/heroku-react/static/css/main.60575270.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heroku-react/static/js/2.508a6755.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e39ccd30617088b86c5d",
-    "url": "/heroku-react/static/js/main.41a6752e.chunk.js"
+    "revision": "318a232a37a1dcbd495a",
+    "url": "/heroku-react/static/js/main.33d7904d.chunk.js"
   },
   {
     "revision": "ce30638e3a9c04ba9d53",
