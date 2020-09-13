@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/heroku-react/static/css/main.60575270.chunk.css",
+    "main.js": "/heroku-react/static/js/main.41a6752e.chunk.js",
+    "main.js.map": "/heroku-react/static/js/main.41a6752e.chunk.js.map",
+    "runtime-main.js": "/heroku-react/static/js/runtime-main.26c8f3fb.js",
+    "runtime-main.js.map": "/heroku-react/static/js/runtime-main.26c8f3fb.js.map",
+    "static/js/2.508a6755.chunk.js": "/heroku-react/static/js/2.508a6755.chunk.js",
+    "static/js/2.508a6755.chunk.js.map": "/heroku-react/static/js/2.508a6755.chunk.js.map",
+    "index.html": "/heroku-react/index.html",
+    "precache-manifest.4ec316849ea5d219740a6e443c305c09.js": "/heroku-react/precache-manifest.4ec316849ea5d219740a6e443c305c09.js",
+    "service-worker.js": "/heroku-react/service-worker.js",
+    "static/css/main.60575270.chunk.css.map": "/heroku-react/static/css/main.60575270.chunk.css.map",
+    "static/js/2.508a6755.chunk.js.LICENSE.txt": "/heroku-react/static/js/2.508a6755.chunk.js.LICENSE.txt",
+    "static/media/linearicons.css": "/heroku-react/static/media/Linearicons-Free.ec161a74.svg",
+    "static/media/MercedesGLE.png": "/heroku-react/static/media/MercedesGLE.3433f4f3.png",
+    "static/media/audiQ3.png": "/heroku-react/static/media/audiQ3.d2ed2b71.png",
+    "static/media/main.css": "/heroku-react/static/media/exclusive.7267cfdc.jpg",
+    "static/media/beqa.jpg": "/heroku-react/static/media/beqa.1a4c94f9.jpg",
+    "static/media/bmw.png": "/heroku-react/static/media/bmw.2ec80a29.png",
+    "static/media/font-awesome.min.css": "/heroku-react/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ford-1.png": "/heroku-react/static/media/ford-1.fde3524e.png",
+    "static/media/honda-1.png": "/heroku-react/static/media/honda-1.8b535991.png",
+    "static/media/jeep.png": "/heroku-react/static/media/jeep.49cca62f.png",
+    "static/media/mercedes-1.jpg": "/heroku-react/static/media/mercedes-1.832bd6f7.jpg",
+    "static/media/nemo.jpg": "/heroku-react/static/media/nemo.77126ca6.jpg",
+    "static/media/nino.jpg": "/heroku-react/static/media/nino.d18dae71.jpg",
+    "static/media/porsche-1.jpg": "/heroku-react/static/media/porsche-1.0d07a3ad.jpg",
+    "static/media/porsche-2.jpg": "/heroku-react/static/media/porsche-2.53edf967.jpg",
+    "static/media/saba.jpg": "/heroku-react/static/media/saba.126d0140.jpg",
+    "static/media/suzuki.jpg": "/heroku-react/static/media/suzuki.30526486.jpg",
+    "static/media/themify-icons.css": "/heroku-react/static/media/themify.e23a7dca.ttf",
+    "static/media/toyota-1.jpg": "/heroku-react/static/media/toyota-1.1507321b.jpg",
+    "static/media/toyotaRAV4.png": "/heroku-react/static/media/toyotaRAV4.b4540031.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c8f3fb.js",
+    "static/js/2.508a6755.chunk.js",
+    "static/css/main.60575270.chunk.css",
+    "static/js/main.41a6752e.chunk.js"
+  ]
+}
