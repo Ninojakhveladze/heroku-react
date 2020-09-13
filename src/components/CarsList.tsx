@@ -92,7 +92,7 @@ class CarsList extends React.Component<CarsListProps> {
         let setColors = this._setColor;
         let setManufacturer = this._setManufacturer;
 
-        fetch('http://localhost:3000/cars')
+        fetch('https://my-json-server.typicode.com/Ninojakhveladze/jsonserver/cars')
             .then(response => response.json())
             .then(function (data) {
                 setCarsFunction(data);
