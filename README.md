@@ -1,4 +1,4 @@
-[Cars App](https://beqa-bumbeishvili.github.io/cars-app)
+[Cars App](https://ninojakhveladze.github.io/heroku-react)
 
 ## Run Project Locally
 
