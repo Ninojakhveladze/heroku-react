@@ -47,7 +47,7 @@ function getAveragePrice() {
 }
 
 async function getCars() {
-    return axios.get('http://localhost:3000/cars')
+    return axios.get('https://my-json-server.typicode.com/Ninojakhveladze/jsonserver/cars')
         .then(resp => {
             return resp.data;
         }).catch(error => {
